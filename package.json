@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@tabler/icons-react": "^3.8.0",
+    "aos": "^3.0.0-beta.6",
     "clsx": "^2.1.1",
     "framer-motion": "^11.2.12",
     "next": "14.2.4",
@@ -18,6 +20,7 @@
     "tailwind-merge": "^2.3.0"
   },
   "devDependencies": {
+    "@types/aos": "^3.0.7",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
