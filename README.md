@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer and software engineer w
 ![Profile Views](https://komarev.com/ghpvc/?username=SamdeepSharma&color=blue&style=flat-square)
 
 ## 🔭 Current Projects
-- **[InsightSphere](https://harmonic-horizons.vercel.app/):** An anonymous feedback system built with Next.js, designed to gather and analyze user feedback discreetly and effectively.
+- **[Ghost Note](https://ghost-note.vercel.app/):** An anonymous feedback system built with Next.js, designed to gather and analyze user feedback discreetly and effectively.
 - **[Harmonic Horizons](https://harmonic-horizons.vercel.app/):** A music academy web application that delivers exceptional music instruction to students through tailored programs to the students.
 
 ## 🌱 Learning Goals
@@ -64,7 +64,7 @@ Welcome to my GitHub profile! I'm a passionate developer and software engineer w
 
 ## 🚀 Noteworthy Projects
 - **[TIET-Placement-System](https://tiet-placement-portal-se-project.vercel.app/):** A centralized placement portal for Thapar University, with which the college can deliver job/internship opportunities to the students.
-- **[InsightSphere](https://harmonic-horizons.vercel.app/):** An anonymous feedback system built with Next.js, designed to gather and analyze user feedback discreetly and effectively.
+- **[Ghost Note](https://ghost-note.vercel.app/):** An anonymous feedback system built with Next.js, designed to gather and analyze user feedback discreetly and effectively.
 - **[Harmonic Horizons](https://harmonic-horizons.vercel.app/):** A music academy web application that delivers exceptional music instruction to students through tailored programs.
 - **[iNotebook-cloud](https://i-notebook-cloud-secure.vercel.app/):** A simple yet efficient notes application for managing important notes synced across all connected devices.
 
