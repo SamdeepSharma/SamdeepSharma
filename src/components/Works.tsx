@@ -18,7 +18,7 @@ type ProjectCardProps = {
 	}[];
 	image: string;
 	source_code_link: string;
-	netlify_link: string;
+	vercel_link: string;
 };
 
 const ProjectCard = ({
@@ -28,7 +28,7 @@ const ProjectCard = ({
 	tags,
 	image,
 	source_code_link,
-	netlify_link,
+	vercel_link,
 }: ProjectCardProps) => {
 	return (
 		<motion.div variants={fadeIn("up", "spring", index * 0.5, 0.75)}>
@@ -40,7 +40,7 @@ const ProjectCard = ({
 				}}
 				className="bg-tertiary p-5 rounded-2xl sm:w-[360px] w-full"
 			>
-				<div className="relative w-full h-[230px]">
+				<div className="relative w-full h-[220px]">
 					<Image
 						src={image}
 						width={1000}
@@ -64,7 +64,7 @@ const ProjectCard = ({
 							/>
 						</Link>
 						<Link
-							href={netlify_link}
+							href={vercel_link}
 							target="_blank"
 							className="black-gradient w-10 h-10 ml-2 rounded-full flex justify-center items-center cursor-pointer"
 						>

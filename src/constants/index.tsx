@@ -152,144 +152,182 @@ const aboutMe = `I am a third-year Bachelor’s student at Thapar Institute of E
 
 const experiences = [
 	{
-		title: "Web Designer",
-		company_name: "A.V.M Auto",
-		icon: "/company/avm.webp",
-		iconBg: "#383E56",
-		date: "2020 -  2021",
+		title: "Mentor - Web-dev Dept.",
+		company_name: "IETE Students' Forum",
+		icon: "/company/IETE_logo.jpg",
+		iconBg: "#252525",
+		date: "2023 - 2024",
 		points: [
-			"Analyzing the needs of customer in a website.",
-			"Designing User Interface (UI) for the problem statement.",
-			"Improving designs to make more user friendly.",
-			"User Experience improvements and feedbacks.",
-		],
-	},
-	{
-		title: "Wordpress Developer",
-		company_name: "A.V.M Auto",
-		icon: "/company/avm.webp",
-		iconBg: "#E6DEDD",
-		date: "2021 - 2022",
-		points: [
-			"Developing and maintaining Wordpress Site for A.V.M Auto The Car Body Shop based in Ahmedabad, Gujarat India.",
-			"Analyzing feedbacks and fixing bugs.",
-			"Search Engine Optimization.",
-			"Design Maintainence and hosting maintenance.",
+			"Contributed to society as a web developer making designs and websites for the events of society.",
+			"Conducted workshops on web development for the members.",
+			"Made websites in collaboration with other mentors.",
+			"Participated in and conducted hackathons.",
 		],
 	},
 ];
 
 const projects = [
 	{
-		name: "Random Quote Generator",
+		name: "Ghost Note",
 		description:
-			"A Fully Responsive Random Quote generating website project given by Free Code Camp while completing Front-End Libraries Certifications built using React.JS , Bootstrap CSS and HTML.",
-		tags: [
-			{
-				name: "react",
-				color: "blue-text-gradient",
-			},
-			{
-				name: "bootstrap",
-				color: "pink-text-gradient",
-			},
-			{
-				name: "quoteapi",
-				color: "orange-text-gradient",
-			},
-		],
-		image: "/projectimg/quote.webp",
+			"An anonymous messaging web app build in Next.js, designed to gather and analyze user feedback discreetly and effectively. Levaraging AI models like gemini-1.5-pro for suggesting messages.",
+			tags: [
+				{
+					name: "next.js",
+					color: "blue-text-gradient",
+				},
+				{
+					name: "gemini-api",
+					color: "green-text-gradient",
+				},
+				{
+					name: "shadcn",
+					color: "orange-text-gradient",
+				},
+				{
+					name: "tailwindcss",
+					color: "pink-text-gradient",
+				},
+			],
+		image: "/projectimg/ghost-note.png",
 		source_code_link:
-			"https://github.com/omunite215/FCC-Random-Quote-Generator",
-		netlify_link: "https://randomquotegeneratorbyom.netlify.app/",
+			"https://github.com/SamdeepSharma/Ghost-Note",
+		vercel_link: "https://ghost-note.vercel.app/",
 	},
 	{
-		name: "Admin Dashboard UI",
+		name: "Harmonic Horizons",
 		description:
-			"React Admin Dashboard is a stunning web application that has a beautiful User Interface and has been built using advanced JavaScript concepts, React, and Tailwind CSS which has different graphs, stats and themes.",
-		tags: [
-			{
-				name: "react",
-				color: "blue-text-gradient",
-			},
-			{
-				name: "Syncfusion UI",
-				color: "orange-text-gradient",
-			},
-			{
-				name: "tailwind",
-				color: "green-text-gradient",
-			},
-		],
-		image: "/projectimg/dashboard.webp",
-		source_code_link: "https://github.com/omunite215/React-Admin-DashBoard",
-		netlify_link: "https://reactadmindashboardbyom.netlify.app/",
+			"A music academy web application that delivers exceptional music instruction to students through tailored programs. This platform offers an interactive and engaging user experience for students and instructors. Front-end only as of now.",
+			tags: [
+				{
+					name: "next.js",
+					color: "blue-text-gradient",
+				},
+				{
+					name: "aceternityUI",
+					color: "green-text-gradient",
+				},
+				{
+					name: "typescript",
+					color: "orange-text-gradient",
+				},
+				{
+					name: "tailwindcss",
+					color: "pink-text-gradient",
+				},
+			],
+		image: "/projectimg/harmonic-horizons.png",
+		source_code_link:
+			"https://github.com/SamdeepSharma/Harmonic-Horizons",
+		vercel_link: "https://harmonic-horizons.vercel.app/",
 	},
 	{
-		name: "HooBank",
+		name: "TIET Placement Portal",
 		description:
-			"A responsive Bank HomePage showcasing different features such as various payment gateways integration, easy money transfer, advanced security, etc. It has a beautiful interface made using Tailwind CSS and React",
-		tags: [
-			{
-				name: "react",
-				color: "blue-text-gradient",
-			},
-			{
-				name: "tailwind",
-				color: "green-text-gradient",
-			},
-		],
-		image: "/projectimg/hoobank.webp",
-		source_code_link: "https://github.com/omunite215/hoobank",
-		netlify_link: "https://hoobankbyom.netlify.app/",
+			"A centralized placement portal for Thapar University, with which the college can deliver job/internship opportunities to the students who can apply for job postings without looking elsewhere for on-campus placements. (Not Official)",
+			tags: [
+				{
+					name: "vite",
+					color: "blue-text-gradient",
+				},
+				{
+					name: "react",
+					color: "green-text-gradient",
+				},
+				{
+					name: "express",
+					color: "orange-text-gradient",
+				},
+				{
+					name: "bootstrap-css",
+					color: "pink-text-gradient",
+				},
+			],
+		image: "/projectimg/TIET-PMS.png",
+		source_code_link:
+			"https://github.com/SamdeepSharma/TIET-Placement-Portal-SE-Project",
+		vercel_link: "https://tiet-placement-portal-se-project.vercel.app/",
 	},
 	{
-		name: "Provid A Youtube Clone",
+		name: "E-banking NBI",
 		description:
-			"Provid is a YouTube clone project built with React, Material UI, and Tailwind CSS. The platform has been designed with a stunning dark mode that enhances the viewing experience. The user interface is intuitive and easy to navigate, ensuring that users can easily find the content they're looking for.",
-		tags: [
-			{
-				name: "react",
-				color: "blue-text-gradient",
-			},
-			{
-				name: "materialui",
-				color: "orange-text-gradient",
-			},
-			{
-				name: "rapidapi",
-				color: "blue-text-gradient",
-			},
-		],
-		image: "/projectimg/provid.webp",
-		source_code_link: "https://github.com/omunite215/Provid-A-YouTube-Clone",
-		netlify_link: "https://providbyom.netlify.app/",
+			"A demo E-Banking Website made using MERN stack for carrying out online transactions and performing other banking operations, built in collaboration of other members of tech society while learning full-stack. Its front-end only as of now.",
+			tags: [
+				{
+					name: "vite",
+					color: "blue-text-gradient",
+				},
+				{
+					name: "react",
+					color: "green-text-gradient",
+				},
+				{
+					name: "javascript",
+					color: "orange-text-gradient",
+				},
+				{
+					name: "figma",
+					color: "pink-text-gradient",
+				},
+			],
+		image: "/projectimg/e-banking.png",
+		source_code_link:
+			"https://github.com/SamdeepSharma/IETE_E-Banking",
+		vercel_link: "https://iete-e-banking.vercel.app/",
 	},
 	{
-		name: "A 3D Developer Portfolio",
+		name: "iNotebook cloud",
 		description:
-			"A responsive 3D Portfolio website which is made using Three.js a cross-browser JavaScript library and application programming interface used to create and display animated 3D computer graphics in a web browser using WebGL. It has a beautiful interface made using Tailwind CSS and React.",
-		tags: [
-			{
-				name: "react",
-				color: "blue-text-gradient",
-			},
-			{
-				name: "tailwind",
-				color: "green-text-gradient",
-			},
-			{
-				name: "threejs",
-				color: "orange-text-gradient",
-			},
-			{
-				name: "emailjs",
-				color: "pink-text-gradient",
-			},
-		],
-		image: "/projectimg/portfoliosample.webp",
-		source_code_link: "https://github.com/omunite215/portfolio",
-		netlify_link: "https://portfoliobyompatel.netlify.app/",
+			"A secure iNotebook for uploading notes on the cloud and accessing it anytime, anywhere and across multiple devices. Never lose access to your notes again. JWT used for user authentication.",
+			tags: [
+				{
+					name: "vite",
+					color: "blue-text-gradient",
+				},
+				{
+					name: "react",
+					color: "green-text-gradient",
+				},
+				{
+					name: "jwt",
+					color: "orange-text-gradient",
+				},
+				{
+					name: "mongoDB",
+					color: "pink-text-gradient",
+				},
+			],
+		image: "/projectimg/iNotebook.png",
+		source_code_link:
+			"https://github.com/SamdeepSharma/iNotebook--Your-notes-secured-on-the-cloud",
+		vercel_link: "https://i-notebook-cloud-secure.vercel.app/",
+	},
+	{
+		name: "Stock Tracker",
+		description:
+			"A real time stock tracker web app where you can search any stock code and it displays all the information about that particular stock at that particular timestamp.",
+			tags: [
+				{
+					name: "react",
+					color: "blue-text-gradient",
+				},
+				{
+					name: "javascript",
+					color: "green-text-gradient",
+				},
+				{
+					name: "CSS",
+					color: "orange-text-gradient",
+				},
+				{
+					name: "stock-api",
+					color: "pink-text-gradient",
+				},
+			],
+		image: "/projectimg/stock-tracker.png",
+		source_code_link:
+			"https://github.com/SamdeepSharma/Stock-Tracker",
+		vercel_link: "https://vercel.com/samdeep-sharmas-projects/stock-tracker",
 	},
 ];
 
