@@ -27,7 +27,7 @@ const Hero = () => {
         rangeY={800}
         particleCount={500}
         baseHue={120}
-        className="flex items-center flex-col justify-center px-2 md:px-10  py-4 w-full h-full"
+        className="flex items-center flex-col justify-center px-2 md:px-10 py-4 w-full h-full"
       >
         <Image alt='' src={"/mee.png"} height={200} width={200} className='rounded-full shadow-emerald-600 shadow-card background'></Image>
         <div className=' flex flex-col justify-center items-center'>

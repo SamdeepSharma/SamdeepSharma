@@ -270,7 +270,7 @@ const projects = [
 					color: "pink-text-gradient",
 				},
 			],
-		image: "/projectimg/e-banking.png",
+		image: "/projectimg/E-banking.png",
 		source_code_link:
 			"https://github.com/SamdeepSharma/IETE_E-Banking",
 		vercel_link: "https://iete-e-banking.vercel.app/",
@@ -327,7 +327,7 @@ const projects = [
 		image: "/projectimg/stock-tracker.png",
 		source_code_link:
 			"https://github.com/SamdeepSharma/Stock-Tracker",
-		vercel_link: "https://vercel.com/samdeep-sharmas-projects/stock-tracker",
+		vercel_link: "https://stock-tracker-samdeep.vercel.app",
 	},
 ];
 
