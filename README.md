@@ -1,7 +1,7 @@
 # Hi there, I'm Samdeep Sharma! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer and software engineer with a love for creating innovative solutions and learning new technologies.
-Do visit ![my portfolio](samdeep-sharma.vercel.app)
+🌟 DO VISIT [MY PORTFOLIO](https://samdeep-sharma.vercel.app)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SamdeepSharma&color=blue&style=flat-square)
 
