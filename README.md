@@ -70,8 +70,8 @@ Welcome to my GitHub profile! I'm a passionate developer and software engineer w
 - **[Neo Pay](https://github.com/SamdeepSharma/Neo-Pay):**  Architected a secure transaction processing system simulating real-world financial workflows with secure multi-server interactions.
 - **[Vaani Vistaar](https://vaani-vistaar.vercel.app/):** Built and deployed an AI-based platform that enabled real-time multilingual translation of both text and audio content
  into 15+ languages.
+- **[Credit Card Fraud Detection](https://github.com/SamdeepSharma/Credit-Card-Fraud-Detection):** Engineered a machine learning pipeline to identify fraudulent credit card transactions with high accuracy.
 - **[TIET-Placement-System](https://tiet-placement-portal-se-project.vercel.app/):** A centralized placement portal for Thapar University, with which the college can deliver job/internship opportunities to the students.
-- **[iNotebook-cloud](https://i-notebook-cloud-secure.vercel.app/):** A simple yet efficient notes application for managing important notes synced across all connected devices.
 
 ## ⚡ Fun Facts
 - Version Control Enthusiast: "I've committed to Git more times than I've updated my status.
