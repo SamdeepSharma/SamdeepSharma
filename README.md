@@ -6,11 +6,13 @@ Welcome to my GitHub profile! I'm a passionate developer and software engineer w
 ![Profile Views](https://komarev.com/ghpvc/?username=SamdeepSharma&color=blue&style=flat-square)
 
 ## 🔭 Current Projects
-- **[Ghost Note](https://ghost-note.vercel.app/):** An anonymous feedback system built with Next.js, designed to gather and analyze user feedback discreetly and effectively.
-- **[Harmonic Horizons](https://harmonic-horizons.vercel.app/):** A music academy web application that delivers exceptional music instruction to students through tailored programs to the students.
+- **[Neo Pay](https://github.com/SamdeepSharma/Neo-Pay):**  Architected a secure transaction processing system simulating real-world financial workflows with secure multi-server
+ interactions.
+- **[Vaani Vistaar](https://vaani-vistaar.vercel.app/):** Built and deployed an AI-based platform that enabled real-time multilingual translation of both text and audio content
+ into 15+ languages.
 
 ## 🌱 Learning Goals
-- Advanced Next.js techniques
+- Advanced System Design and Optimizing Architectures.
 - Deepening my knowledge in DevOps and cloud computing.
 - Understanding the fields of Data Science and web3.js
 - Exploring new opportunities in the field of software industry.
@@ -61,12 +63,14 @@ Welcome to my GitHub profile! I'm a passionate developer and software engineer w
 ## 📫 Get in Touch
 - **Email:** sharmasamdeep1@gmail.com
 - **GitHub:** [github.com/SamdeepSharma](https://github.com/SamdeepSharma)
-- **LinkedIn:** [linkedin.com/in/samdeep-sharma-20894b283/](https://www.linkedin.com/in/samdeep-sharma-20894b283/)
+- **LinkedIn:** [linkedin.com/in/SamdeepSharma/](https://www.linkedin.com/in/SamdeepSharma/)
 
 ## 🚀 Noteworthy Projects
-- **[TIET-Placement-System](https://tiet-placement-portal-se-project.vercel.app/):** A centralized placement portal for Thapar University, with which the college can deliver job/internship opportunities to the students.
 - **[Ghost Note](https://ghost-note.vercel.app/):** An anonymous feedback system built with Next.js, designed to gather and analyze user feedback discreetly and effectively.
-- **[Harmonic Horizons](https://harmonic-horizons.vercel.app/):** A music academy web application that delivers exceptional music instruction to students through tailored programs.
+- - **[Neo Pay](https://github.com/SamdeepSharma/Neo-Pay):**  Architected a secure transaction processing system simulating real-world financial workflows with secure multi-server interactions.
+- **[Vaani Vistaar](https://vaani-vistaar.vercel.app/):** Built and deployed an AI-based platform that enabled real-time multilingual translation of both text and audio content
+ into 15+ languages.
+- **[TIET-Placement-System](https://tiet-placement-portal-se-project.vercel.app/):** A centralized placement portal for Thapar University, with which the college can deliver job/internship opportunities to the students.
 - **[iNotebook-cloud](https://i-notebook-cloud-secure.vercel.app/):** A simple yet efficient notes application for managing important notes synced across all connected devices.
 
 ## ⚡ Fun Facts
