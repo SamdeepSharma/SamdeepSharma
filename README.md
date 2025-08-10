@@ -67,7 +67,7 @@ Welcome to my GitHub profile! I'm a passionate developer and software engineer w
 
 ## 🚀 Noteworthy Projects
 - **[Ghost Note](https://ghost-note.vercel.app/):** An anonymous feedback system built with Next.js, designed to gather and analyze user feedback discreetly and effectively.
-- - **[Neo Pay](https://github.com/SamdeepSharma/Neo-Pay):**  Architected a secure transaction processing system simulating real-world financial workflows with secure multi-server interactions.
+- **[Neo Pay](https://github.com/SamdeepSharma/Neo-Pay):**  Architected a secure transaction processing system simulating real-world financial workflows with secure multi-server interactions.
 - **[Vaani Vistaar](https://vaani-vistaar.vercel.app/):** Built and deployed an AI-based platform that enabled real-time multilingual translation of both text and audio content
  into 15+ languages.
 - **[TIET-Placement-System](https://tiet-placement-portal-se-project.vercel.app/):** A centralized placement portal for Thapar University, with which the college can deliver job/internship opportunities to the students.
@@ -76,4 +76,3 @@ Welcome to my GitHub profile! I'm a passionate developer and software engineer w
 ## ⚡ Fun Facts
 - Version Control Enthusiast: "I've committed to Git more times than I've updated my status.
 - I have a passion for traveling and exploring different places.
-- Cricket has always been my first ❤️.
